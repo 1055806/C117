@@ -1,0 +1,14 @@
+body{
+    color: cornflowerblue;
+}
+
+.timer
+{
+    font-size: 15px;
+    margin-right: 10px;
+}
+.score_output
+{
+    font-size: 15px;
+    margin-left: 10px;
+}
